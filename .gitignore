@@ -1,0 +1,9 @@
+*build
+.gradle
+*node_modules
+.idea
+module-include.xml
+*.iml
+
+environment.gradle
+gradle/
